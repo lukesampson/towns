@@ -48,7 +48,7 @@ def sort_state_then_pop(row):
 
 	return (state, pop)
 
-csv = []
+rows = []
 
 for cat, catid in cats:
 	print("Category: %s" % cat)
@@ -67,14 +67,14 @@ for cat, catid in cats:
 
 		if infotype:
 			name, state, pop, latlng = extractdata(data, title)
-			csv.append([state,name,pop,latlng])
+			rows.append([state,name,pop,latlng])
 
 			if not name:
 				print('DEBUG: {} (page id {}) doesn''t have town name in infobox'.format(title, pageid))
 		else:
 			print('skipped {}'.format(title))
 
-csv.sort(key=sort_state_then_pop)
+rows.sort(key=sort_state_then_pop)
 
-rows = [','.join([str(col or '') for col in cols]) for cols in csv]
-util.writetext('\n'.join(rows), 'data', 'towns.csv')
+rows = [','.join([str(col or '') for col in cols]) for cols in rows]
+util.writetext('\n'.join(rows), 'output', 'towns.csv')

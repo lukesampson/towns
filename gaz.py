@@ -24,6 +24,9 @@ def fme(gml, name):
 	return el.text
 
 
+# ensure output directory exists
+if not os.path.exists(util.relpath('output')):
+	os.makedirs(util.relpath('output'))
 
 # download gazeteer
 url = 'http://www.ga.gov.au/corporate_data/76695/GazetteerOfAustralia2012Package.zip'
@@ -57,7 +60,7 @@ if not os.path.exists(gml):
 	print('done')
 
 # parse to CSV
-csv_path = util.relpath('data', 'gazetteer.csv')
+csv_path = util.relpath('output', 'gazetteer.csv')
 
 if not os.path.exists(csv_path):
 	print('parsing {}...'.format(gml), end='', flush=True)
