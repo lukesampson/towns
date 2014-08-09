@@ -77,4 +77,4 @@ for cat, catid in cats:
 csv.sort(key=sort_state_then_pop)
 
 rows = [','.join([str(col or '') for col in cols]) for cols in csv]
-util.writetext('\n'.join(rows), 'output', 'towns.csv')
+util.writetext('\n'.join(rows), 'data', 'towns.csv')
