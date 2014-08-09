@@ -44,10 +44,10 @@ def pagetext_from_json(jsontext, pageid):
 	return j['query']['pages'][str(pageid)]['revisions'][0]['*']
 
 def cached_pagetext(pageid):
-	return util.readtext('scratch', 'cache', str(pageid) + '.txt')
+	return util.readtext('cache', str(pageid) + '.txt')
 
 def cache_pagetext(pageid, text):
-	util.writetext(text, 'scratch', 'cache', str(pageid) + '.txt')
+	util.writetext(text, 'cache', str(pageid) + '.txt')
 
 def pagetext(pageid):
 	cached = cached_pagetext(pageid)

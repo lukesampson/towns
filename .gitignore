@@ -1,5 +1,5 @@
 postcodes
 *.sublime-workspace
-scratch/*
+cache/*
 __pycache__/*
 /output/*

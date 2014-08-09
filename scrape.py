@@ -7,6 +7,7 @@ def extractdata(data, pagetitle):
 	name = data.get('name')
 	state = wp.striplinks(wp.striptags(data.get('state'))) # should only have abbreviation, strip anything else
 	pop = wp.striplinks(wp.striptags(data.get('pop')))
+	latlng = data.get('coordinates')
 
 	if(pop):
 		pop = re.match(r'\d+', pop)
@@ -17,7 +18,35 @@ def extractdata(data, pagetitle):
 	else:
 		pop = None
 
-	return name, state, pop
+	return name, normalize(state), pop, latlng
+
+def normalize(state):
+	if state is None or state == '':
+		return state
+
+	state = state.lower()
+
+	repl = {
+		'queensland': 'qld',
+		'western australia': 'wa',
+		'new south wales': 'nsw'
+	}
+
+	if state in repl:
+		state = repl[state]
+
+	return state
+
+def sort_state_then_pop(row):
+	state,name,pop,latlng = row
+
+	if state is None:
+		state = ''
+
+	if pop is None:
+		pop = 0
+
+	return (state, pop)
 
 csv = []
 
@@ -37,12 +66,15 @@ for cat, catid in cats:
 			raise Exception("error parsing info for {} ({}):\n{}".format(title, pageid, text))
 
 		if infotype:
-			name, state, pop = extractdata(data, title)
-			csv.append("{},{},{}".format(state,name,pop))
+			name, state, pop, latlng = extractdata(data, title)
+			csv.append([state,name,pop,latlng])
 
 			if not name:
 				print('DEBUG: {} (page id {}) doesn''t have town name in infobox'.format(title, pageid))
 		else:
 			print('skipped {}'.format(title))
 
-util.writetext('\n'.join(csv), 'output', 'towns.csv')
+csv.sort(key=sort_state_then_pop)
+
+rows = [','.join([str(col or '') for col in cols]) for cols in csv]
+util.writetext('\n'.join(rows), 'output', 'towns.csv')
