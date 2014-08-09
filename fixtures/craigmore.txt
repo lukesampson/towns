@@ -1,0 +1,61 @@
+{{Use dmy dates|date=October 2012}}
+{{Infobox Australian place | type = suburb
+|name     = Craigmore
+|city     = Adelaide
+|state    = South Australia
+|lga      = [[City of Playford]]
+|postcode = 5114
+|fedgov   = [[Division of Wakefield|Wakefield]]
+|stategov = [[Electoral district of Napier|Napier]]
+|dist1 = 5 |location1 = [[Elizabeth, South Australia|Elizabeth]]
+|near-nw  = [[Munno Para, South Australia|Munno Para]]
+|near-n   = [[Blakeview, South Australia|Blakeview]]
+|near-ne  = [[Uleybury, South Australia|Uleybury]]
+|near-w   = [[Elizabeth East, South Australia|Elizabeth East]]
+|near-e   = [[One Tree Hill, South Australia|One Tree Hill]]
+|near-sw  = 
+|near-s   = [[Hillbank, South Australia|Hillbank]]
+|near-se  = [[Gould Creek, South Australia|Gould Creek]]
+}}
+
+'''Craigmore''' is a large suburb north of [[Adelaide]], [[South Australia]]. It is located in the [[City of Playford]] local government area, just east of [[Elizabeth, South Australia|Elizabeth]] south of [[Gawler, South Australia|Gawler]].
+
+==History==
+Craigmore is within the traditional territory of the Aboriginal [[Kaurna people]] of the Adelaide Plains. European settlement in the area began in 1855 when Blair Farm was constructed situated just north of what is now Uley Road .&lt;ref name=&quot;Playford Council&quot;&gt;[http://www.playford.sa.gov.au/webdata/resources/files/Heritage_PAR1.pdf]&lt;/ref&gt; Modern development of Craigmore started circa the late 1960s/ early 1970s with the construction of State Housing Trust estates. Further private developments occurred during the mid-1980s, late 1990s, and throughout the 2000, with urban infill still incomplete. This development has made Craigmore one of Adelaide's longest suburbs by distance, totalling 3.75 kilometres parallel with Adams Road between Kakuna Crescent and Arthur Street.
+
+==Geography==
+Craigmore is situated on foot hills approximately 29&amp;nbsp;km by road from the Adelaide GPO. Although Craigmore is a suburb of Adelaide and part of the Adelaide metropolitan area, Craigmore is&amp;nbsp;11&amp;nbsp;km from Gawler by road. Most dwellings are build up to the start of the hills (One Tree Hill), which are used for cattle grazing and wine growing.
+
+Adams Creek runs through the middle of Craigmore.
+
+==Demographics==
+The 2006 census shows Craigmore as having a population of 10,319.&lt;ref name=&quot;Australian Bureau of Statistics&quot;&gt;[http://www.censusdata.abs.gov.au/ABSNavigation/prenav/ProductSelect?newproducttype=QuickStats&amp;btnSelectProduct=View+QuickStats+%3E&amp;collection=Census&amp;period=2006&amp;areacode=SSC41316&amp;geography=&amp;method=&amp;productlabel=&amp;producttype=&amp;topic=&amp;navmapdisplayed=true&amp;javascript=true&amp;breadcrumb=LP&amp;topholder=0&amp;leftholder=0&amp;currentaction=201&amp;action=401&amp;textversion=false]&lt;/ref&gt; Residents of Craigmore have a mixed income, with older former public housing residents located in the middle, and newer larger, more expensive houses in the newer estates such as Somerset Grove and Beckham Rise.
+
+==Facilities==
+Craigmore is serviced by a High School which opened in 1970.&lt;ref name=&quot;Parliament of South Australia&quot;&gt;
+[http://www.parliament.sa.gov.au/NR/rdonlyres/466B9FED-0083-497E-8D64-70702A7172D3/9410/ReportCraigmoreHighSchool.pdf Parliament of South Australia]&lt;/ref&gt; Craigmore is also serviced by a shopping centre containing a Coles Supermarket, a liquor store BWS, an award winning bakery and many other speciality shops. There is a YMCA, a number of primary schools and an R-12 Christian school. Close by, the large [[Munno Para Shopping City]] has many large stores including K-Mart, Foodland, Bunnings, and Harvey Norman. as well as the even bigger Elizabeth shopping centre. A new Woolworths shopping centre is also under construction in the adjacent Blakes Crossing.  Uleybury Winery and restaurant is a short 3&amp;nbsp;km walk from Craigmore. Some sporting clubs that reside in the area are [http://users.tpg.com.au/gk1812 Craigmore Cricket Club] and the Munno Para City Soccer Club.
+
+In June 2010, Craigmore was finally given television reception through the erection of a tower on the corner of Uley and Adams Roads in Elizabeth Park. In the same month, Craigmore was also given ADSL equivalent speed internet through wireless [[WiMAX]]. Prior to this date, one half of the dwellings in Craigmore were within an ADSL blackspot and were required to rely on 3G, dialup, or satellite internet.
+
+===Schools===
+* [[Craigmore High School]]
+* [[Craigmore Christian School]]
+* [[Craigmore South Primary School]]
+* [[Playford Public School]]
+* [[Trinity College, Gawler]]
+
+==Transport==
+The area is serviced by the 441, 442 and 443 Adelaide Metro buses. Both these buses terminate at [[Smithfield railway station, Adelaide|Smithfield]] and [[Elizabeth railway station|Elizabeth]] Interchanges, with train connections to [[Gawler Central railway line|Adelaide and Gawler]].&lt;ref name=&quot;Adelaide Metro&quot;&gt;
+[http://www.adelaidemetro.com.au Adelaide Metro]&lt;/ref&gt; The 443 covers most the routes covered by the 441 and 442, running late at night.
+
+==See also==
+* [[City of Playford]]
+* [[List of Adelaide suburbs]]
+
+== References ==
+{{Reflist}}
+
+{{coord|34|42|31|S|138|42|20|E|type:city_region:AU-SA|display=title}}
+{{City of Playford suburbs}}
+
+[[Category:Suburbs of Adelaide]]

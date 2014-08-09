@@ -1,0 +1,5 @@
+postcodes
+*.sublime-workspace
+scratch/*
+__pycache__/*
+/output/*

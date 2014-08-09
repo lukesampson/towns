@@ -1,0 +1,41 @@
+# api ref
+http://en.wikipedia.org/w/api.php
+
+# web view
+http://en.wikipedia.org/wiki/Category:Suburbs_in_Australia
+
+# get category
+http://en.wikipedia.org/w/api.php?action=query&prop=categoryinfo&titles=Category:Suburbs_in_Australia
+
+# get top-level sub-categories
+http://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Suburbs_in_Australia&cmlimit=500&format=json
+
+# suburbs in Brisbane
+http://en.wikipedia.org/w/api.php?action=query&list=categorymembers&cmtitle=Category:Suburbs_of_Brisbane&cmlimit=500&format=json
+
+# page by ID
+http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&pageids=7961428
+
+# page by title
+http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=json&titles=Template:Hobart localities
+
+# Australian place template (XML)
+http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&titles=Template:Infobox Australian place
+
+
+
+### Wikidata
+(wikipedia page)
+http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&format=jsonfm&titles=Hamilton,%20Queensland
+
+# Get wikipedia to parse it
+http://en.wikipedia.org/w/api.php?action=parse&text={{%23property:p281}}&title=Hamilton,%20Queensland&prop=text&format=json
+
+# Get properties for Hamilton, Queensland
+https://www.wikidata.org/w/api.php?action=wbgetentities&sites=enwiki&titles=Hamilton,%20Queensland&languages=en&format=jsonfm
+
+# get wikibase item from wikipedia page id
+http://en.wikipedia.org/w/api.php?action=query&prop=pageprops&format=jsonfm&pageids=7392990
+
+# Get just the postal code for Hamilton, Queensland
+https://www.wikidata.org/w/api.php?action=wbgetclaims&entity=Q5644792&property=P281&format=jsonfm

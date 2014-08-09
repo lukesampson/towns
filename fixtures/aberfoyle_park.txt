@@ -1,0 +1,62 @@
+{{Use dmy dates|date=October 2012}}
+{{Infobox Australian place | type = suburb
+| name     = Aberfoyle Park
+| city     = Adelaide
+| state    = sa
+| image    = Aberfoyle pk.jpg  
+| caption  = Jeanette Crescent
+| lga      = City of Onkaparinga
+| postcode = 5159
+| pop      = 12,057 (2006 Census)&lt;ref name=&quot;abs&quot;&gt;{{Census 2006 AUS | id = SSC41006 | name = Aberfoyle Park (State Suburb) | accessdate = 25 October 2007 | quick = on}}&lt;/ref&gt;&lt;br /&gt;11,618 (2001 Census)&lt;ref name=&quot;Census2001&quot;&gt;{{Census 2001 AUS | id = SSC41006 | name = Aberfoyle Park (State Suburb) | accessdate = 17 July 2010 | quick = on}}&lt;/ref&gt;
+| est      = 1924
+| area     = 
+| stategov = [[electoral district of Fisher|Fisher]]
+| fedgov   = [[Division of Mayo|Mayo]], [[Division of Boothby|Boothby]]
+| near-nw  = [[Flagstaff Hill, South Australia|Flagstaff Hill]]
+| near-n   = [[Flagstaff Hill, South Australia|Flagstaff Hill]]
+| near-ne  = [[Coromandel Valley, South Australia|Coromandel Valley]]
+| near-e   = [[Chandlers Hill, South Australia|Chandlers Hill]]
+| near-se  = [[Chandlers Hill, South Australia|Chandlers Hill]]
+| near-s   = [[Happy Valley, South Australia|Happy Valley]]
+| near-sw  = [[Happy Valley, South Australia|Happy Valley]]
+| near-w   = [[Happy Valley, South Australia|Happy Valley]]
+| dist1    = 20
+| location1= Adelaide
+}}
+[[File:Hub dr, ab pk.jpg|Hub Drive, Aberfoyle Park.|thumb]]
+
+'''Aberfoyle Park''' {{IPAc-en|ˈ|æ|b|ɚ|f|ɔɪ|l}} is a southern [[suburb]] of [[Adelaide]] in the [[City of Onkaparinga]], [[South Australia]]. It has a [[shopping mall]] called &quot;The Hub&quot;, several [[primary school]]s and a [[Aberfoyle Park High School|public high school]], one of the biggest in the state.
+
+==History==
+[[File:Windebanks rd, hv and abpk.jpg|left|thumb|Windebanks Road]]
+In 1845, Christian Sauerbier, from Germany, purchased land south of Adelaide, near [[Happy Valley, South Australia|Happy Valley]]. In 1856, Sauerbier owned eleven sections of land in the area. The area became agricultural and the Sauerbier family was renowned for the quality of their stud stock and the orange grove that was attached to their property. Christian Sauerbier died in 1893 and the property was given to his son, John Chris. During the [[First World War]], when anti-German sentiment was at a high in Australia, Chris changed his last name to Aberfoyle - a reference to an area in [[Perthshire, Scotland]] where his father had lived for a while. John Chris died in 1923 and his estate was subdivided and sold by James Henry Browne. Agriculture was the core of the districts economy for quite some time. Inevitably, the farmlands were turned into suburban expansion and the suburb of Aberfoyle Park was proclaimed on 10 July 1980.&lt;ref&gt;{{cite web|url=http://www.onkaparingacity.com/history/viewsuburb.asp?content=aberfoyle |title=Aberfoyle Park  European History and Heritage |accessdate=8 April 2012}}&lt;/ref&gt;  The Aberfoyle Park Post Office opened on 16 November 1981.&lt;ref name = &quot;Post Office&quot;&gt;{{Cite web  | last = Premier Postal History  | title = Post Office List  | publisher = Premier Postal Auctions | url = https://www.premierpostal.com/cgi-bin/wsProd.sh/Viewpocdwrapper.p?SortBy=SA&amp;country= | accessdate = 26 May 2011}}&lt;/ref&gt;
+
+==Geography==
+The suburb is located in the [[Adelaide Hills]], giving the area a hilly terrain.
+
+==Governance==
+Aberfoyle Park is part of the [[City of Onkaparinga]]. It is in the [[South Australian House of Assembly]] (state) [[electoral district of Fisher]], whose current member is Dr. [[Bob Such]], and the [[Australian House of Representatives]] (federal) [[Division of Boothby]], whose representative is [[Andrew Southcott]].
+
+==Education==
+* The Aberfoyle Park Primary School Campus&lt;ref&gt;http://www.appscampus.sa.edu.au/&lt;/ref&gt; consists of 3 primary schools - State School 'Thiele', Catholic Education school 'Nativity', and the Uniting Church service 'Pilgrim' and Preschool all on the same grounds. There is a strong vision and spirit of cooperation and collaboration between the three schools.
+* Aberfoyle Hub Primary School is a public R-7 school.&lt;ref&gt;{{cite web | url=http://web.ahs.sa.edu.au/www/index.php | title=Aberfoyle Hub School | publisher=Aberfoyle Hub School Website }}&lt;/ref&gt; It is notable for its success in the [[Pedal prix]]. The school's team, &quot;The Hubcaps&quot;, have multiple consecutive wins in the Junior category of the race.&lt;ref&gt;{{cite web | url=http://www.news.com.au/adelaidenow/story/0,22606,24379924-2682,00.html | title=25,000 watch Pedal Prix fun | publisher=Adelaide Now | date=21 September 2008 | last=Stewart | first=Frances }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://web.ahs.sa.edu.au/www/pedalprix.php | publisher=Aberfoyle Hub School Website | title=HUBCAPS Pedal Prix Team }}&lt;/ref&gt;
+* Aberfoyle Park High School&lt;ref&gt;http://intra.aphs.sa.edu.au/&lt;/ref&gt; is one of the largest secondary schools in South Australia. It is a public high school for Year 8-12 students. The school has particular strengths in three important areas. Information &amp; Communication Technology provides cutting edge development and learning opportunities for students and staff alike. The Visual and Performing Arts program showcases quality students achievement and fosters community engagement and the IGNITE&lt;ref&gt;http://intra.aphs.sa.edu.au/node/22/&lt;/ref&gt; program for gifted and talented students strongly promotes excellence of achievement through innovative teaching and curriculum.
+
+==Sport==
+The Happy Valley sports park, which is located near [[Aberfoyle Park High School]], contains the [[Happy Valley Football Club]] who are known as the Vikings, the Happy Valley Cricket Club, the Happy Valley tennis club, a lawn bowls club and a BMX track.
+
+The Aberfoyle Park hub has a [[YMCA]], which runs many community events such as volleyball.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.onkaparingacity.com/history/viewsuburb.asp?content=aberfoyle Aberfoyle Park] - European History and Heritage - City of Onkaparinga
+
+{{Commons category|Aberfoyle Park, South Australia}}
+
+{{Coord|-35.067|138.600|format=dms|type:city_region:AU-SA|display=title}}
+{{City of Onkaparinga suburbs}}
+
+[[Category:Suburbs of Adelaide]]
+[[Category:Populated places established in 1924]]

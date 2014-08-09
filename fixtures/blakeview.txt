@@ -1,0 +1,69 @@
+{{Use dmy dates|date=October 2012}}
+{{Infobox Australian place
+| type                = suburb
+| name                = Blakeview
+| city                = Adelaide
+| state               = sa
+| image               = 
+| caption             = 
+| pop                 = 4,294 &lt;small&gt;''(2006 Census)''&lt;/small&gt;&lt;ref name=ABS2006&gt;{{Census 2006 AUS |id =SSC41151 |name=Blakeview (State Suburb) |accessdate=20 April 2011 | quick=on}}&lt;/ref&gt;&lt;br&gt;3,377 &lt;small&gt;''(2001 Census)''&lt;/small&gt;&lt;ref name=ABS2001&gt;{{Census 2001 AUS |id =SSC41151 |name=Blakeview (State Suburb) |accessdate=20 April 2011 | quick=on}}&lt;/ref&gt;
+| est                 = 
+| postcode            = 5114&lt;ref name=Postcodes&gt;{{cite web |url=http://www.postcodes-australia.com/areas/sa/adelaide/blakeview
+|title=Blakeview, South Australia (Adelaide) |author= |date= |work=Postcodes-Australia |publisher=Postcodes-Australia.com |accessdate=20 April 2011}}&lt;/ref&gt;
+| area                = 
+| dist1               = 29
+| dir1                = N
+| location1           = [[Adelaide city centre]]&lt;ref name=Postcodes/&gt;
+| lga                 = City of Playford
+| stategov            = [[Electoral district of Napier|Napier]] &lt;small&gt;''(2011)''&lt;/small&gt;&lt;ref&gt;{{cite web |url=http://www.ecsa.sa.gov.au/apps/news/?year=2010 |title=Electoral Districts - Electoral District for the 2010 Election |author= |date= |work= |publisher=Electoral Commission SA |accessdate=20 April 2011}}&lt;/ref&gt;
+| fedgov              = [[Division of Wakefield|Wakefield]] &lt;small&gt;''(2011)''&lt;/small&gt;&lt;ref&gt;{{cite web |url=http://apps.aec.gov.au/esearch |title=Find my electorate |author= |date=15 April 2011 |work= |publisher=Australian Electoral Commission |accessdate=20 April 2011}}&lt;/ref&gt;
+| near-n              = [[Kudla, South Australia|Kudla]]
+| near-ne             = [[Evanston South, South Australia|Evanston South]]
+| near-e              = [[Uleybury, South Australia|Uleybury]]
+| near-se             = [[Craigmore, South Australia|Craigmore]]
+| near-s              = [[Elizabeth Downs, South Australia|Elizabeth Downs]]
+| near-sw             = [[Smithfield, South Australia|Smithfield]]
+| near-w              = [[Munno Para, South Australia|Munno Para]]
+| near-nw             = [[Munno Para, South Australia|Munno Para]]
+}}
+
+'''Blakeview''' is a northern [[Suburbs and localities (Australia)|suburb]] of [[Adelaide]], [[South Australia]]. It is located in the [[City of Playford]].
+
+==Geography==
+Blakeview is located to the northeast of [[Elizabeth, South Australia|Elizabeth]] and lies on the opposite side of [[Main North Road]] to [[Munno Para, South Australia|Munno Para]].&lt;ref name=UBD&gt;{{cite book |title=Adelaide and surrounds street directory|last= |first= |authorlink= |coauthors= |edition= 47th|year=2009 |publisher=UBD |location= |isbn=978-0-7319-2336-6 |page= |pages= |url= |accessdate=}}&lt;/ref&gt;
+
+==Demographics==
+The 2006 Census by the [[Australian Bureau of Statistics]] counted 4,294 persons in Blakeview on census night. Of these, 49.6% were male and 50.4% were female.&lt;ref name=ABS2006/&gt;
+
+The majority of residents (76.2%) are of Australian birth, with other common census responses being [[England]] (12.4%) and [[Scotland]] (2.2%).&lt;ref name=ABS2006/&gt;
+
+The age distribution of Blakeview residents is skewed towards a slightly younger population than the greater Australian population. 58% of residents were over 25 years in 2006, compared to the Australian average of 66.5%; and 42% were younger than 25 years, compared to the Australian average of 33.5%.&lt;ref name=ABS2006/&gt;
+
+==Community==
+===Schools===
+Blakeview Primary School is located on Omega Drive and Trinity College Blakeview is on Park Lake Boulevard.&lt;ref&gt;{{cite web |url=http://www.australianschoolsdirectory.com.au |title=Australian Schools Directory |author= |date= |work= |publisher=Australian Schools Directory |accessdate=20 April 2011}}&lt;/ref&gt;
+
+==Facilities and attractions==
+===Parks===
+There are several parks and reserves throughout the suburb, especially along Smith Creek. Many of the parks are provided with playground equipment.&lt;ref name=UBD/&gt;
+
+==Transportation==
+===Roads===
+Blakeview is serviced by [[Main North Road]], connecting the suburb to [[Adelaide city centre]].&lt;ref name=UBD/&gt;
+
+===Public transport===
+Blakeview is serviced by public transport run by the [[Adelaide Metro]].&lt;ref name=Metro&gt;{{cite web |url=http://timetables.adelaidemetro.com.au/ttsearch.php |title=Public Transport in Adelaide |author= |date=12 January 2011 |work=Adelaide Metro official website |publisher=Dept. for Transport, Energy and Infrastructure, Public Transport Division |accessdate=20 April 2011}}&lt;/ref&gt;
+
+==See also==
+*[[List of Adelaide suburbs]]
+
+==References==
+{{reflist}}
+
+==External links==
+*{{cite web |url=http://www.playford.sa.gov.au |title=City of Playford |author= |date= |work=Official website |publisher=City of Playford |accessdate=20 April 2011}}
+
+{{Coord|-34.682|138.702|format=dms|type:city_region:AU-SA|display=title}}
+{{City of Playford suburbs}}
+
+[[Category:Suburbs of Adelaide]]

@@ -1,0 +1,73 @@
+{{redirect|Bulimba|the Queensland electoral division|Electoral district of Bulimba}}
+{{Use dmy dates|date=October 2012}}
+{{Infobox Australian place | type = suburb
+| name     = Bulimba
+| city     = Brisbane
+| state    = qld
+| image    = BulimbaOxfordStreet2.JPG
+| caption  = Oxford St, the main street of Bulimba
+| lga      = [[City of Brisbane]]
+| postcode = 4171
+| pop      = 5941
+| pop_year = {{CensusAU|2011}}
+| pop_footnotes = &lt;ref name=&quot;census11&quot;&gt;{{Census 2011 AUS|id=SSC30256|name=Bulimba, Qld (State Suburb)|accessdate=18 May 2013|quick=on}}&lt;/ref&gt;
+| area     = 2.1
+| est      =
+| stategov = [[Electoral district of Bulimba|Bulimba]]
+| fedgov   = [[Division of Griffith|Griffith]]
+| dist1    = 4
+| location1= [[Brisbane]]
+| near-nw   = [[Teneriffe, Queensland|Teneriffe]]
+| near-n   = [[Hamilton, Queensland|Hamilton]]
+| near-ne   = [[Hamilton, Queensland|Hamilton]]
+| near-e   = [[Balmoral, Queensland|Balmoral]]
+| near-w   = [[Teneriffe, Queensland|Teneriffe]]
+| near-sw  = [[East Brisbane, Queensland|Hawthorne]]
+| near-s   = [[Hawthorne, Queensland|Hawthorne]]
+| near-se  = [[Morningside, Queensland|Morningside]]
+}}
+
+'''Bulimba''' is an [[inner suburb]] of [[Brisbane]], [[Australia]]. It is four kilometres (direct distance) south-east of the CBD, and is located on the southern bank of the [[Brisbane River]]. Bulimba means ''magpie lark'', which is the name also given to Bulimba Creek. At the 2011 Australian Census the suburb recorded a population of 5,941.&lt;ref name=&quot;census11&quot;/&gt;
+
+The suburb is occasionally seen in Australian media, as the electorate of the Federal Member for Griffith and former Prime Minister of Australia [[Kevin Rudd]] covers Bulimba. It is also home to several Army Cadet Units – 12 ACU and 161 Aviation Detachment at Bulimba Barracks on Apollo Road.
+
+Bulimba is also a popular meeting place, especially on weekends, with a variety of cafes, restaurants, cinemas and a hotel.
+
+==History==
+[[File:Queensland_State_Archives_2884_Bulimba_State_School_Brisbane_1946.png|thumb|left|Bulimba State School, 1946]]
+Bulimba is part of the traditional lands of the [[Turrubal people]] who have lived in the area for at least 20,000 years.&lt;ref&gt;2002. [http://www.ourindooroopilly.com/brisbane-history.html Brief History of Brisbane City in the 19th Century].  Thompson Computing.&lt;/ref&gt;
+
+In the 1820s Bulimba was zoned as a farming district, however was subdivided as a result of the 1880s land boom. In its early days the suburb was (unusually) located on both sides of the river. The part of Bulimba on the northern bank of the river is today regarded as [[Teneriffe, Queensland|Teneriffe]] or [[New Farm]].&lt;ref&gt; (7 June 2011). [http://web.archive.org/web/20110627051414/http://www.ourbrisbane.com/suburbs/bulimba/history Bulimba - History: Our Brisbane]. Archived at [[Wayback Machine]]. Retrieved 18 May 2013.&lt;/ref&gt;
+
+Bulimba State School was built in 1938.  It was designed by architect Gilbert Robert Beveridge to accommodate 512 students.&lt;ref name=&quot;bbh&quot;&gt;{{cite book |title=Building Brisbane's History: Structure, Sculptures, Stories and Secrets |last=Gregory |first=Helen |coauthors=Dianne Mclay |year=2010 |publisher=Woodslane Press |location=Warriewood, New South Wales |isbn=9781921606199 |pages=122}}&lt;/ref&gt;
+
+==Heritage listings==
+Bulimba has a number of [[heritage-listed]] sites, including:
+* 34 Kenbury Street: [[Bulimba House]]&lt;ref&gt;{{cite QHR|14954|Bulimba House|accessdate=2013-07-06}}&lt;/ref&gt;
+* Oxford Street: [[Bulimba ferry wharf|Bulimba Ferry Terminal]]&lt;ref&gt;{{cite QHR|16313|Bulimba Ferry Terminal|accessdate=2013-07-06}}&lt;/ref&gt;
+* 129 Oxford Street: [[Bulimba Memorial Park]]&lt;ref&gt;{{cite QHR|14955|Bulimba Memorial Park|accessdate=2013-07-06}}&lt;/ref&gt;
+* 171 Oxford Street: [[St John the Baptist Anglican Church]]&lt;ref&gt;{{cite QHR|16923|St John the Baptist Anglican Church|accessdate=2013-07-06}}&lt;/ref&gt;
+* 261 Oxford Street: [[Bulimba State School]]&lt;ref&gt;{{cite QHR|16611|Bulimba State School|accessdate=2013-07-06}}&lt;/ref&gt;
+
+==Transportation==
+Ferry services, via [[CityCat]] and [[CityFerry]], are located off Oxford Street and Apollo Rd. Bulimba is also serviced by Brisbane Transport buses, on route numbers 230, P231 and 232.
+{{-}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://queenslandplaces.com.au/bulimba Bulimba: Queensland Places]
+*[http://oxfordstreetbulimba.com.au Oxford Street Bulimba &amp; just off]
+
+
+{{Coord|-27.451|153.058|format=dms|type:city_region:AU-QLD|display=title}}
+
+{{Suburbs of Brisbane City Council}}
+
+[[Category:Suburbs of Brisbane]]
+[[Category:Bulimba, Queensland]]
+
+
+{{Brisbane-geo-stub}}

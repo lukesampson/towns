@@ -1,0 +1,82 @@
+{{Use dmy dates|date=October 2012}}
+{{Infobox Australian place
+| type                = suburb
+| name                = Cannon Hill
+| city                = Brisbane
+| state               = QLD
+| image               = Cannon Hill Railway Station, Queensland, Aug 2012.JPG
+| caption             = Photo of the [[Cannon Hill railway station]]
+| pop                 = 4507
+| pop_year = {{CensusAU|2011}}
+| pop_footnotes = &lt;ref name=Census&gt;{{Census 2011 AUS|id=SSC30312|name=Cannon Hill, Qld (State Suburb)|accessdate=24 October 2013|quick=on}}&lt;/ref&gt;
+| est                 = 1867
+| postcode            = 4170
+| area                = 4.6
+| dist1               = 7
+| dir1                = east
+| location1           = [[Brisbane central business district | Brisbane CBD]]
+| lga                 = [[City of Brisbane]]
+| stategov            = [[Electoral district of Bulimba|Bulimba]]
+| fedgov              = [[Division of Griffith|Griffith]]
+| near-n              = [[Murarrie, Queensland|Murarrie]]
+| near-ne             = [[Murarrie, Queensland|Murarrie]]
+| near-e              = [[Tingalpa, Queensland|Tingalpa]]
+| near-se             = [[Carina, Queensland|Carina]]
+| near-s              = [[Carina, Queensland|Carina]]
+| near-sw             = [[Seven Hills, Queensland|Seven Hills]]
+| near-w              = [[Morningside, Queensland|Morningside]]
+| near-nw             = [[Morningside, Queensland|Morningside]]
+}}
+
+'''Cannon Hill''' is an [[inner suburb]] of [[Brisbane]], [[Queensland]], [[Australia]] located in the [[City of Brisbane]]. It is located {{convert|7|km|mi|}} east of the [[Brisbane CBD]].
+
+== History ==
+Cannon Hill is thought to have be named by a surveyor who noted down that two tree stumps resembled a cannon. More likely Cannon Hill was named after the Weedon family home 'Cannon Hill House'. Built in 1867, the house, which had extensive grounds and a maze, burnt down in 1927.&lt;ref&gt; [http://www.ourbrisbane.com/living/suburbs/cannon_hill/history/ Brisbane Suburb: Cannon Hill - History of Cannon Hill - ourbrisbane.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; This house was build opposite of the present day primary school. &lt;ref name=UNIofQLD&gt;[http://queenslandplaces.com.au/cannon-hill]&lt;/ref&gt;
+
+The railway was opened in 1889 going though Cannon Hill to Cleveland. At the same time blocks of land near the station were offered for sale. 
+
+== Education ==
+=== Schools ===
+Cannon Hill contains the [[Cannon Hill State School]] and [[Cannon Hill Anglican College]]
+
+== Commercial ==
+=== Shops ===
+Cannon Hill is home to many shops and restaurants. Major shopping centres include the [[Cannon Hill Shopping Plaza]] and Urban Village Cannon Hill.
+
+== Transport ==
+Cannon Hill is well serviced by [[public transport]] and is located in zones 2 and 3 of the [[TransLink (South East Queensland) | TransLink]] integrated public transport system. Cannon Hill is also serviced by two major roads which allow for easy transportation around the city.
+=== Train ===
+[[Cannon Hill railway station, Brisbane|Cannon Hill railway station]] provides access to regular [[Citytrain]] services to the [[Brisbane CBD]] and [[Cleveland railway station|Cleveland]].
+
+=== Bus ===
+The [[Cannon Hill bus station]] is a major interchange for the area. Bus routes include to the [[Brisbane CBD]], [[Chermside, Queensland | Chermside]], DFO and [[Carindale, Queensland | Carindale]].
+
+=== Road ===
+State Route 20 (Creek Road) - Connects Cannon Hill to [[Mount Gravatt, Queensland | Mount Gravatt]] and [[Murarrie, Queensland | Murarrie]]&lt;br/&gt;
+State Route 23 (Wynnum Road, Lytton Road, Shafston Road) - Connects Cannon Hill to [[Kangaroo Point, Queensland | Kangaroo Point]] and [[Tingalpa, Queensland | Tingalpa]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{commons category}}
+* [http://queenslandplaces.com.au/cannon-hill University of Queensland: Queensland Places: Cannon Hill]
+* {{cite web|title=Cannon Hill
+|work=BRISbites
+|url=http://www.brisbites.com/suburbView.asp?suburb=21&amp;topic=1
+|publisher=[[Brisbane City Council]]
+|archiveurl=http://web.archive.org/web/20080720210415/http://www.brisbites.com/suburbView.asp?suburb=21&amp;topic=1
+|archivedate=20 July 2008
+|accessdate=30 October 2013}}
+* {{cite web|title=Cannon Hill
+|work=Our Brisbane
+|url=http://www.ourbrisbane.com/living/suburbs/cannon_hill/home/
+|publisher=[[Brisbane City Council]]
+|archiveurl=http://web.archive.org/web/20080214124448/http://www.ourbrisbane.com/living/suburbs/cannon_hill/home/
+|archivedate=14 February 2008
+|accessdate=30 October 2013}}
+
+{{Coord|-27.473|153.097|display=title|format=dms|region:AU-QLD_type:city}}
+{{Suburbs of Brisbane City Council}}
+
+[[Category:Suburbs of Brisbane]]

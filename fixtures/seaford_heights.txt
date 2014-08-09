@@ -1,0 +1,47 @@
+{{Use dmy dates|date=October 2012}}
+{{Infobox Australian place|type=suburb
+|name    =Seaford Heights
+|city    =Adelaide
+|state   =sa
+|image   =
+|caption =
+|lga     =City of Onkaparinga
+|postcode=5169
+|est     =
+|pop     =
+|area    =
+|stategov=
+|fedgov  =
+|near-nw =
+|near-n  =
+|near-ne =
+|near-w  =
+|near-e  =
+|near-sw =
+|near-s  =
+|near-se =
+|dist1   =
+|location1=}}
+'''Seaford Heights''' is a metropolitan [[suburb]] of [[Adelaide]], [[South Australia]]. It lies within the [[City of Onkaparinga]] and has postcode 5169. Its boundaries are formed by Robinson Road on the north, Main South Road on the west, Victor Harbor Road &amp; Ostrich Farm Road on the east, and The Southern Waste Depot on the south.  It covers 77 hectares.
+
+Seaford Heights is Adelaide's newest southern suburb, and as yet has no residential development{{when|date=June 2012}}.  Currently the land is used for wheat and sheep farming.  
+
+The Fairmont Group, an Australian property-development company, was given the tender in December 2008 to develop the property, and planned to start in late 2009.  However, local opposition to the development&lt;ref&gt;[http://www.southern-times-messenger.whereilive.com.au/news/story/stop-heights-housing/ '' Seaford Heights housing plan 'endangers tourism' (20 July 2010)]&lt;/ref&gt; has stalled the development to date.  Original plans called for the suburb to be completed in 2019 with 1300 allotments and an approximate population of 4,500. 
+
+Some concerns have been raised with Onkarparinga City council that the residential area will be sandwiched between two of Southern Adelaide's busiest arterial roads (Main South Road, Victor Harbor Road) and a dump (The Southern Waste Depot).  Local opposition has also questioned placing a &quot;strip mall&quot; next to Adelaide's extensive grape fields.
+
+==References==
+{{Reflist}}
+
+==See also==
+*[[History of Adelaide]]
+*[[European settlement of South Australia]]
+
+{{Coord|-35.196|138.497|format=dms|type:city_region:AU-SA|display=title}}
+
+{{City of Onkaparinga suburbs}}
+
+[[Category:Suburbs of Adelaide]]
+
+
+{{Adelaide-geo-stub}}

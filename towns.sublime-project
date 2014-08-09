@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "../towns",
+			"file_exclude_patterns": [ ".gitignore", "*.sublime-*" ],
+			"folder_exclude_patterns": [ "__pycache__", "scratch" ],
+			"binary_file_patterns": [ "*.mdb" ]
+		}
+	]
+}
