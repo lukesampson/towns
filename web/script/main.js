@@ -1,8 +1,11 @@
 $(function() {
 	map = init_map();
-	towns = load_data();
+	towns = load_towns();
 
-	towns = filter(towns, [ { fn: filter_pop, args: { min: 2000, max: 3000 } }])
+	filters = []
+	filters.push({ fn: filter_pop, args: { min: 800, max: 3000 } })
+
+	//towns = filter(towns, filters)
 
 	show_towns(towns, map);
 });
@@ -15,8 +18,8 @@ function init_map() {
 	return new google.maps.Map(document.getElementById("map_canvas"), options);
 }
 
-function load_data() {
-	var lines = $('#csv_data').text().split('\n');
+function load_towns() {
+	var lines = $('#csv_towns').text().split('\n');
 	
 	function row(line) {
 		return line.split(',')
