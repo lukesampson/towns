@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+        <title>Telstra Coverage</title>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+        <script type="text/javascript" src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/arcgislink/src/arcgislink.js">
+        </script>
+        <script>
+        function init() {
+          var url = 'http://www.telstra.com.au/mobile/maps/services/services/MDS_SpeedMap_int_ext/MapServer';
+          var svc = new gmaps.ags.MapService(url);
+          google.maps.event.addListenerOnce(svc, 'load', function() {
+            try {
+              var tileLayer = new gmaps.ags.TileLayer(svc);
+              var agsType = new gmaps.ags.MapType([tileLayer], {
+                name: 'Telstra Coverage',
+                opacity: 0.5
+              });
+              var bnds = svc.getInitialBounds();
+              var myOptions = {
+                zoom: 4,
+                center: bnds.getCenter(),
+                mapTypeId: 'stateplane',
+                mapTypeControlOptions: {
+                  mapTypeIds: ['stateplane', google.maps.MapTypeId.ROADMAP, google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]
+                }
+              }
+              var map = new google.maps.Map(document.getElementById("map_canvas"), myOptions);
+              map.mapTypes.set('stateplane', agsType);
+              //map.overlayMapTypes.insertAt(0, agsType);
+            } catch (e) {
+              alert(e);
+            }
+          });
+        }
+
+        window.onload = init;
+        </script>
+    </head>
+    <body style="margin:0px; padding:0px;">
+        <div id="map_canvas" style="width:100%; height:100%">
+        </div>
+    </body>
+</html>
