@@ -76,5 +76,6 @@ for cat, catid in cats:
 
 rows.sort(key=sort_state_then_pop)
 
+rows.insert(0, ['name', 'state', 'pop', 'latlng']) # headers
 rows = [','.join([str(col or '') for col in cols]) for cols in rows]
-util.writetext('\n'.join(rows), 'output', 'towns.csv')
+util.writetext('\n'.join(rows), 'output', 'wikipedia.csv')

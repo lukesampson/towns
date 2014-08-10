@@ -23,3 +23,4 @@ def writetext(text, *path):
 	f = open(path, 'w')
 	f.write(text)
 	f.close()
+	

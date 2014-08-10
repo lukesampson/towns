@@ -66,6 +66,7 @@ if not os.path.exists(csv_path):
 	print('parsing {}...'.format(gml), end='', flush=True)
 
 	with open(csv_path, 'w') as f:
+		f.write('name,state,feat_code,lat,lng,postcode\n')
 		for event, el in ET.iterparse(gml):
 			if(el.tag == GML_NS + 'featureMember'):
 				gml = el.find(FME_NS + 'GML')
@@ -78,7 +79,7 @@ if not os.path.exists(csv_path):
 					lng       = fme(gml, 'LONGITUDE')
 					postcode  = fme(gml, 'POSTCODE')
 
-					f.write('"{}",{},{},{},{},{}\n'.format(name, state, feat_code, lat, lng, postcode or ''))
+					f.write('{},{},{},{},{},{}\n'.format(name.strip(), state, feat_code, lat, lng, postcode or ''))
 				
 				el.clear() # release memory
 	print('done')
