@@ -22,8 +22,6 @@ def lookup(name, state):
 	if len(matches) == 0:
 		# raise Exception('Couldn''t find {} in {}'.format(name,state))
 		return None
-	elif len(matches) == 1:
-		return matches[0]
 
 	pref = ['LOCB','URBN','PRSH','POPL','SUB','HMSD','LOCU']
 	for p in pref:
@@ -31,10 +29,11 @@ def lookup(name, state):
 		if len(x) > 0:
 			return x[0]
 
-	raise Exception("Couldn't find '{}' in '{}'. Possible feature codes were {}".format(name, state, [m['feat_code'] for m in matches]))
+	print("WARNING: Couldn't find '{}' in '{}'. Possible feature codes were {}".format(name, state, [m['feat_code'] for m in matches]))
+	return None
 
 
-outrows = [census_headers + ['lat','lng']]
+outrows = [census_headers + ['feat_code','lat','lng']]
 
 for r in census_rows:
 	cols = csv.row(r, census_headers)
@@ -45,10 +44,11 @@ for r in census_rows:
 	match = lookup(name, state)
 
 	if match is not None:
+		feat_code = match['feat_code']
 		lat = match['lat']
 		lng = match['lng']
 
-		outrows.append(r + [lat,lng])
+		outrows.append(r + [feat_code,lat,lng])
 	else:
 		print("Couldn't find {} in {}".format(name, state))
 
