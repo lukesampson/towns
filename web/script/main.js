@@ -1,21 +1,40 @@
 $(function() {
-	map = init_map();
-	towns = load_towns();
+	map = init_map(function(map) {
+		towns = load_towns();
+		filters = []
+		
+		filters.push({ fn: filter_pop, args: { min: 3000 } })
+		towns = filter(towns, filters)
 
-	filters = []
-	filters.push({ fn: filter_pop, args: { min: 800, max: 3000 } })
-
-	//towns = filter(towns, filters)
-
-	show_towns(towns, map);
+		show_towns(towns, map);
+	});	
 });
 
-function init_map() {
-	var options = {
-		center: new google.maps.LatLng(-27.553986, 135.423151),
-		zoom: 5
-	};
-	return new google.maps.Map(document.getElementById("map_canvas"), options);
+function init_map(callback) {
+	var url = 'http://www.telstra.com.au/mobile/maps/services/services/MDS_SpeedMap_int_ext/MapServer';
+	var svc = new gmaps.ags.MapService(url);
+	google.maps.event.addListenerOnce(svc, 'load', function() {
+		try {
+			var tileLayer = new gmaps.ags.TileLayer(svc);
+			var agsType = new gmaps.ags.MapType([tileLayer], {
+				name: 'Telstra Coverage',
+				opacity: 0.5
+			});
+			var options = {
+				zoom: 5,
+				center: new google.maps.LatLng(-27.553986, 135.423151),
+				mapTypeId: 'stateplane',
+				mapTypeControlOptions: {
+					mapTypeIds: ['stateplane', google.maps.MapTypeId.ROADMAP, google.maps.MapTypeId.SATELLITE, google.maps.MapTypeId.HYBRID]
+				}
+			}
+			var map = new google.maps.Map(document.getElementById("map_canvas"), options);
+			map.mapTypes.set('stateplane', agsType);
+			callback(map);
+		} catch (e) {
+			alert(e);
+		}
+	});
 }
 
 function load_towns() {
